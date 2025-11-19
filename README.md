@@ -65,7 +65,7 @@ This portfolio demonstrates:
 ## 📂 Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/portfolio.git
+git clone https://github.com/cecilrhods/portfolio.git
 
 💻 Project Structure
 portfolio/
